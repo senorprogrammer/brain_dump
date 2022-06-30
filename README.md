@@ -1,2 +1,3 @@
-# brain_dump
-A collection of ideas for software development
+# BrainDump
+
+A collection of ideas for software development.
